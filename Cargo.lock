@@ -2003,9 +2003,9 @@ dependencies = [
 
 [[package]]
 name = "native-dialog"
-version = "0.3.0"
+version = "0.4.4"
 source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "5a9a63b870dd16781bf3cde0ce248a0f95f7fba14600f2a4eb9dc7d3556d179f"
+checksum = "e5b69bf2d8a7adddb64521426df8c3125d27ca8da25db97efc7425d8b07c92f3"
 dependencies = [
  "osascript",
  "serde",
